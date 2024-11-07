@@ -41,7 +41,7 @@ h2{
 
 
 #content{
-    font-family: anton;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     display:flex;
     flex-direction: column;
     align-items: center;
